@@ -70,7 +70,7 @@
 Feel free to connect or check out my other platforms!
 
 - **Blog:**  
-  [![Blog Badge](https://img.shields.io/badge/My%20Tech%20Blog-000000?style=flat-square&logo=GitHubSponsors&logoColor=white)](블로그주소)
+  [![Blog Badge](https://img.shields.io/badge/My%20Tech%20Blog-000000?style=flat-square&logo=GitHubSponsors&logoColor=white)](https://yongyongcoding.tistory.com/)
 
 - **Instagram:**  
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](인스타그램주소)
